@@ -6,7 +6,7 @@ You will need to install a copy of these software for your platform prior to mak
 - Saxon Library source code: https://github.com/Saxonica/Saxon-HE/blob/main/12/Java/SaxonHE12-5J.zip
 - The built Binaries/API = https://www.saxonica.com/saxon-c/documentation12/index.html
 
-From the running directory, a typical command for generating EPICS - Db or substitions files:
+From the running directory, a typical command for generating EPICS Db or substitions files:
 
    `./SaxonTool_0/process_xml ../XML/1_myPlcOpcuaFile.xml ../2_XSLT_folder ../3_Output_folder`
 
